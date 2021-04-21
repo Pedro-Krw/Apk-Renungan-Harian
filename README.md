@@ -1,2 +1,2 @@
 # Apk-Renungan-Harian
-![apk renungan](https://user-images.githubusercontent.com/59316805/115432962-30c13e00-a231-11eb-8e95-69796c59ed91.jpg)
+![apk](https://user-images.githubusercontent.com/59316805/115534926-77ab4400-a2c2-11eb-8353-89dd7972bbcd.jpg)
